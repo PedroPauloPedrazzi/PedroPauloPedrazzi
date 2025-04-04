@@ -43,6 +43,9 @@ Minha principal linguagem de programação é o Python, mas também tenho profic
 <hr style="border: 1px solid gray; width: 100%;">
 
 ## **💻 Projetos**
+
+Jogo de Xadrez em Python
+
 <div align="left">
 </div>
 
