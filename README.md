@@ -27,5 +27,5 @@ Minha principal linguagem de programação é o Python, mas também tenho profic
 
 ## **📊 Estatísticas e Status**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPauloPedrazzi)](https://github.com/PedroPauloPedrazzi/github-readme-stats)
-          
+<img alt="Estatisticas_e_Status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PedroPauloPedrazzi&show_icons=true"/>
+<img alt="Graficos_de_linguagens_mais_usadas" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloPedrazzi&layout=donut"/>
