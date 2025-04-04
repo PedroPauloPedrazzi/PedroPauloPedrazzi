@@ -36,7 +36,7 @@ Minha principal linguagem de programação é o Python, mas também tenho profic
 ## **📊 Estatísticas e Status**
 
 <div align="left">
-<img alt="Estatisticas_e_Status" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=PedroPauloPedrazzi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img alt="Estatisticas_e_Status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PedroPauloPedrazzi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img alt="Graficos_de_linguagens_mais_usadas" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloPedrazzi&layout=donut&theme=merko"/>
 </div>
 
