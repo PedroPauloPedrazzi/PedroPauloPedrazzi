@@ -20,7 +20,7 @@ Minha principal linguagem de programação é o Python, mas também tenho profic
 <img align="left" alt="Django" width="90px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
 <img align="left" alt="React" width="90px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 
-<br><br><br><br><!-- Adiciona espaço abaixo das imagens -->
+<br><br><br><br><br><br><br><!-- Adiciona espaço abaixo das imagens -->
 
 ## **🏆 Linguagens Estrangeiras**
 <img alt="Static Badge" src="https://img.shields.io/badge/INGL%C3%8AS-C2-blue?style=for-the-badge&labelColor=blue&color=black">
