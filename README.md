@@ -46,6 +46,8 @@ Minha principal linguagem de programação é o Python, mas também tenho profic
 
 ### **Jogo de Xadrez em Python**
 
+Este é um jogo de xadrez desenvolvido em Python usando a biblioteca Pygame. O jogo apresenta um tabuleiro de xadrez totalmente funcional com todas as peças de xadrez padrão, incluindo peões, torres, cavalos, bispos, rainhas e reis. Os jogadores podem mover as suas peças à vez, e o jogo inclui funcionalidades como capturar peças, verificar o rei e declarar um vencedor quando um rei é verificado. O jogador também pode jogar contra o computador.
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
   <img alt="Initial_Chess_Screen" width="47%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Initial%20screen.png"/>
   <img alt="Main_Chess_Game" width="47%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Main%20game.png"/>
