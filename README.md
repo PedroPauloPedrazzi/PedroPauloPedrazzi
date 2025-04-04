@@ -44,9 +44,11 @@ Minha principal linguagem de programação é o Python, mas também tenho profic
 
 ## **💻 Projetos**
 
-Jogo de Xadrez em Python
+### **Jogo de Xadrez em Python**
 
 <div align="left">
+  <img alt="Initial_Chess_Screen" width="50%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Initial%20screen.png"/>
+  <img/>
 </div>
 
 <hr style="border: 1px solid gray; width: 100%;">
