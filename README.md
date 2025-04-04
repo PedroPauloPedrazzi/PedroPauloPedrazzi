@@ -55,6 +55,16 @@ Link do Projeto: https://github.com/PedroPauloPedrazzi/Xadrez_em_Python-Chess_in
   <img alt="Main_Chess_Game" width="47%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Main%20game.png"/>
 </div>
 
+### **Um Modelo Responsivo de Ecommerce**
+
+Este é um Modelo Responsivo de Ecommerce Estático feito em HTML5, CSS3 e JavaScript. O projeto possui uma interface moderna e limpa.
+
+Link do Projeto: https://responsive-ecommerce-model.netlify.app/
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+  <img alt="Initial_Chess_Screen" width="47%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Initial%20screen.png"/>
+</div>
+
 <hr style="border: 1px solid gray; width: 100%;">
 
 ## **🌐 Contato e Redes Sociais**
