@@ -46,9 +46,9 @@ Minha principal linguagem de programação é o Python, mas também tenho profic
 
 ### **Jogo de Xadrez em Python**
 
-<div align="left">
-  <img alt="Initial_Chess_Screen" width="50%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Initial%20screen.png"/>
-  <img/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+  <img alt="Initial_Chess_Screen" width="47%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Initial%20screen.png"/>
+  <img alt="Main_Chess_Game" width="47%" src="https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/main/imagens/Main%20game.png"/>
 </div>
 
 <hr style="border: 1px solid gray; width: 100%;">
