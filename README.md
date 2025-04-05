@@ -100,3 +100,5 @@ Fique à vontade para entrar em contato ou conectar comigo nas redes sociais:
 
 <hr style="border: 1px solid gray; width: 100%;">
 
+![snake gif](https://github.com/PedroPauloPedrazzi/PedroPauloPedrazzi/blob/output/github-snake-dark.svg)
+
